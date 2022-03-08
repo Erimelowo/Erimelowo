@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Louka3000 (AKA Erimel)
+- 👋 Hewwo, I’m Erimel (@Louka3000 on Github)
 - 👀 I’m interested in Virtual Reality
-- 📫 How to reach me Discord: Erimel#7159
+- 📫 You can reach me on Discord: Erimel#7159
 
 <!---
 Louka3000/Louka3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
