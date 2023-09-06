@@ -1,4 +1,4 @@
-- 👋 Hewwo, I’m Louka Lemire (@Louka3000 on Github)
+- 👋 Hewwo, I’m Erimel (@Louka3000 on Github)
 - 👀 I’m interested in Virtual Reality
 - 📫 You can reach out to me on Discord (erimel) or via email (loukalemire@gmail.com)  
 
