@@ -1,5 +1,5 @@
-- 👋 Hewwo, I’m Erimel (@Louka3000 on Github)
+- 👋 Hewwo, I’m Erimel (@Erimelowo)
 - 👀 I’m interested in Virtual Reality
 - 📫 You can reach out to me on Discord (erimel) or via email (loukalemire@gmail.com)  
 
-![](https://komarev.com/ghpvc/?username=louka3000)
+![](https://komarev.com/ghpvc/?username=erimelowo)
